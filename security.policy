@@ -1,0 +1,6 @@
+// Security policy for the Online Voting System
+
+// Grant all permissions to the local codebase
+grant {
+    permission java.security.AllPermission;
+};
